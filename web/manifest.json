@@ -1,14 +1,19 @@
 {
-    "name": "rep_track",
-    "short_name": "rep_track",
+    "name": "Rep Track",
+    "short_name": "Rep Track",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#152238",
+    "theme_color": "#152238",
     "description": "Gym progess tracking application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
+        {
+            "src": "icons/barbell-circle.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
