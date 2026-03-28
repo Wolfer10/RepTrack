@@ -1,5 +1,6 @@
 library app_database;
 
+import 'package:flutter/foundation.dart';
 import 'package:drift/drift.dart';
 
 import 'database/connection/connection_factory.dart';
