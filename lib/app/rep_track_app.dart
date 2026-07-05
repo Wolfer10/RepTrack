@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rep_track/app_database.dart';
-import 'package:rep_track/features/routines/routines_home_page.dart';
+import 'package:rep_track/features/routines/pages/routines_home_page.dart';
 
 class RepTrackApp extends StatelessWidget {
   const RepTrackApp({super.key, required this.database});

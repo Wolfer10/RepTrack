@@ -139,6 +139,7 @@ class _RoutineEditorPageState extends State<RoutineEditorPage> {
       if (!mounted) {
         return;
       }
+
       Navigator.of(context).pop();
     } finally {
       if (mounted) {

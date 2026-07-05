@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:rep_track/app_database.dart';
-import 'package:rep_track/features/routines/routine_editor_page.dart';
-import 'package:rep_track/features/workouts/workout_history_page.dart';
-import 'package:rep_track/features/workouts/workout_session_page.dart';
+import 'package:rep_track/features/routines/pages/routine_editor_page.dart';
+import 'package:rep_track/features/workouts/pages/workout_history_page.dart';
+import 'package:rep_track/features/workouts/pages/workout_session_page.dart';
 
 class RoutinesHomePage extends StatefulWidget {
   const RoutinesHomePage({super.key, required this.database});
